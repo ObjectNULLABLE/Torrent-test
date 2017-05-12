@@ -1,0 +1,16 @@
+{
+  "name": "js_torrent_test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-clear": "^1.0.4",
+    "webtorrent": "^0.98.18"
+  },
+  "devDependencies": {},
+  "description": ""
+}
